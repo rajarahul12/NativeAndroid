@@ -6,7 +6,7 @@ android {
         pickFirst 'META-INF/LICENSE'
         pickFirst 'META-INF/NOTICE'
     }
-    compileSdkVersion 28
+    compileSdkVersion 29
     buildToolsVersion "29.0.2"
 
     defaultConfig {
