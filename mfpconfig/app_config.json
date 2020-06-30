@@ -6,7 +6,7 @@
         "clientPlatform": "android",
         "packageName": "com.demo.push"
       },
-      "displayName": "DemoAppB",
+      "displayName": "NativeAndroid",
       "scopeElementMapping": {
         "push.mobileclient": "",
         "liveupdate.mobileclient": ""
