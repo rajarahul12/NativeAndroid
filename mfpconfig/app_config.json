@@ -14,42 +14,6 @@
       }
    ],
    "adapters":[
-      {
-         "adapter":"BlueAuthLogin",
-         "securityCheckDefinitions":{
-            "BlueAuthLogin":{
-               "properties":{
-                  "TokenEndpointURL":{
-                     "value":"http://auth-bluecompute.rahultestocp-c33bf0f22ab59313b3628c493e016b88-0000.us-south.containers.appdomain.cloud/oauth/token"
-                  },
-                  "ClientSecret":{
-                     "value":"bluecomputewebs3cret"
-                  },
-                  "ClientID":{
-                     "value":"bluecomputeweb"
-                  }
-               }
-            }
-         }
-      },
-      {
-         "adapter":"ResourceAdapter",
-         "securityCheckDefinitions":{
-            "BlueAuthLogin":{
-               "properties":{
-                  "TokenEndpointURL":{
-                     "value":"http://auth-bluecompute.rahultestocp-c33bf0f22ab59313b3628c493e016b88-0000.us-south.containers.appdomain.cloud/oauth/token"
-                  },
-                  "ClientSecret":{
-                     "value":"bluecomputewebs3cret"
-                  },
-                  "ClientID":{
-                     "value":"bluecomputeweb"
-                  }
-               }
-            }
-         }
-      }
    ],
    "services":[
       {
