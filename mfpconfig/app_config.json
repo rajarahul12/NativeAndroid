@@ -96,8 +96,6 @@
          "name":"analytics"
       }
    ],
-   "backendServices":[
-   ],
    "confidentialClients":[
       {
          "id":"SampleClient",
