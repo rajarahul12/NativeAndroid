@@ -8,7 +8,7 @@
           },
           "displayName":"NativeAndroid",
           "scopeElementMapping":{
-             "push.mobileclient":"",
+             "push.mobileclient":"BlueAuthLogin",
              "liveupdate.mobileclient":""
           }
        }
