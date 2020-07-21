@@ -148,10 +148,10 @@
     ],
     "confidentialClients":[
        {
-          "id":"SampleClient",
-          "secret":"12345",
+          "id":"testclient",
+          "secret":"testclient",
           "allowedScope":"clients:read-public clients:read-protected update",
-          "displayName":"SampleClient"
+          "displayName":"TestClient"
        }
     ],
     "appPublish":{
