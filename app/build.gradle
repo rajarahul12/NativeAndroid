@@ -16,6 +16,15 @@ android {
         versionCode 1
         versionName "1.0.0"
     }
+    
+    buildTypes {
+        debug {
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            debuggable false
+            jniDebugBuild false
+        }
+    }
+    
     lintOptions {
         abortOnError false;
         disable 'MissingTranslation'
